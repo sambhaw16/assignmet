@@ -1,0 +1,5 @@
+Pandas - pip install pandas
+pyodbc - pip install pyodbc
+
+
+# Fot task we need to have a databse where we can create tables 
